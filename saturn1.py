@@ -1,0 +1,5 @@
+print 'hello word'
+name = 'paul'
+password = 'password'
+if name == 'paule' & password == 'password'
+print 'login successful'
